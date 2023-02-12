@@ -6,5 +6,5 @@ def sum(a, b):
         return a
     else:
         return sum(a+1, b-1)
-print(sum(2, 900))
+print(sum(50, 49))
   
